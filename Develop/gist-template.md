@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Regex Tutorial for Beginners
 
 Welcome to this beginner-friendly guide on regular expressions, or regex for short. Regex can seem tricky at first, but it's just a way to find specific patterns in text, like looking for certain words in a book. In this tutorial, we'll explore a simple regex together, showing you how these patterns work and how they can be really useful in your coding journey.
 
